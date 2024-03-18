@@ -1,5 +1,5 @@
 # Amazon-Review-Classifier
- Bu proje, Amazon müşteri yorumlarını sınıflandırmak için geliştirilmiş bir metin sınıflandırma modelini içeriyor. Metin madenciliği ve duygusal analiz tekniklerini kullanarak, müşteri yorumlarını pozitif veya negatif olarak sınıflandırmayı başardık.
+ Bu proje, Amazon müşteri yorumlarını sınıflandırmak için geliştirilmiş bir metin sınıflandırma modelini içeriyor. Metin madenciliği ve duygusal analiz tekniklerini kullanarak, müşteri yorumlarını pozitif veya negatif olarak sınıflandırmayı sağlıyor.
 
 Projenin Anahtar Özellikleri:
 
